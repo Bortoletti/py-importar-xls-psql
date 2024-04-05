@@ -41,6 +41,8 @@ pip freeze > requirements.txt
 
 <li>Editar app/main.py
 <li>Informar as credenciais de acesso do banco de dados.
+
+
 # Executar importação
 ```
 cd app
