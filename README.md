@@ -16,7 +16,7 @@ source venv/bin/activate
 deactivate
 ```
 
-# instar libs a partir de requirements.txt
+# instalar libs a partir de requirements.txt
 
 ```
 python3 -m pip install -r requirements.txt
@@ -37,9 +37,10 @@ pip freeze > requirements.txt
 
 ```
 
+# Configurar
 
-
-
+<li>Editar app/main.py
+<li>Informar as credenciais de acesso do banco de dados.
 # Executar importação
 ```
 cd app
