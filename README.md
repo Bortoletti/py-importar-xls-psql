@@ -10,7 +10,19 @@ pip list
 source venv/bin/activate
 ```
 
-# instalar lib para acesso ao banco de dados
+
+# desativar o ambiente
+```
+deactivate
+```
+
+# instar libs a partir de requirements.txt
+
+```
+python3 -m pip install -r requirements.txt
+```
+
+# instalar libs
 
 ```
 sudo apt install python3-dev libpq-dev
